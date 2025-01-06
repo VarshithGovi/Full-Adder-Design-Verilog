@@ -6,10 +6,10 @@ Welcome to the **Full-Adder Design** project! 🎉 This repository demonstrates 
 
 | File Name                | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
-| **`full_adder.v`**       | Verilog module implementing the full-adder with gate-level modeling.        |
-| **`full_adder_tb.v`**    | Testbench for **`full_adder.v`** to validate sum and carry functionality.   |
-| **`full_adder.vcd`**     | Value Change Dump file generated after simulation for waveform analysis.    |
-| **`full_adder.vvp`**     | Compiled simulation file created by Icarus Verilog.                        |
+| **[fa.v](https://github.com/VarshithGovi/Full-Adder-Design-Verilog/blob/main/fa.v)**       | Verilog module implementing the full-adder with gate-level modeling.        |
+| **[fa_tb.v](https://github.com/VarshithGovi/Full-Adder-Design-Verilog/blob/main/fa_tb.v)**    | Testbench for **`full_adder.v`** to validate sum and carry functionality.   |
+| **[fa.vcd](https://github.com/VarshithGovi/Full-Adder-Design-Verilog/blob/main/fa.vcd)**     | Value Change Dump file generated after simulation for waveform analysis.    |
+| **[fa.vvp](https://github.com/VarshithGovi/Full-Adder-Design-Verilog/blob/main/fa_tb.vvp)**     | Compiled simulation file created by Icarus Verilog.                        |
 | **`LICENSE`**            | MIT License details.                                                       |
 
 ## 📋 Full-Adder Implementation
